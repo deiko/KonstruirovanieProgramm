@@ -1,0 +1,2013 @@
+Content-Type: multipart/related; start=<op.mhtml.1289050406648.0c87fa2444729117@192.168.1.13>; boundary=----------hyQdT5gTz8TdrEb9XMAwPo
+Content-Location: http://www.ntecs.de/old-hp/s-direktnet/sprachen.htm
+Subject: =?utf-8?Q?"Hello=20World"=20in=2065=20verschiedenen=20Sprachen?=
+MIME-Version: 1.0
+
+------------hyQdT5gTz8TdrEb9XMAwPo
+Content-Disposition: inline; filename=sprachen.htm
+Content-Type: text/html; charset=iso-8859-1; name=sprachen.htm
+Content-ID: <op.mhtml.1289050406648.0c87fa2444729117@192.168.1.13>
+Content-Location: http://www.ntecs.de/old-hp/s-direktnet/sprachen.htm
+Content-Transfer-Encoding: 8bit
+
+<html>  <head> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <meta name="GENERATOR" content="Microsoft FrontPage Express 2.0"> <title>"Hello World" in 65 verschiedenen Sprachen</title> </head>
+ <body background="Image1.jpg">
+
+<p align="center"><a name="start"></A></P>
+
+<hr>
+
+<p align="center"><!--webbot bot="HTMLMarkup" startspan --><META NAME="AUTHOR" CONTENT="Michael Neumann ">
+<META NAME="PUBLISHER" CONTENT="Michael Neumann ">
+<META NAME="PUBLISHER-EMAIL" CONTENT="neumann@s-direknet.de ">
+<META NAME="KEYWORDS" CONTENT="ABC Ada Algol Amos Apl Assembler HTML JavaScript Intel Motorola 68000 80x86 DOS ATARI BASIC BETA C C++ Cilk CLAIRE COBOL Concurrent Clean DOS Batch Dylan Eiffel Emerald Erlang Euphoria Forth Fortran Haskell Hope HTML Icon J Java Leda Lisp Logo ML Modula-2 Modula Modula-3 NESL Oberon Objective-C Obliq Oz Mozart Oz/Mozart Pascal Perl Phantom PHP PHP3 PL/0 PL/1 Postscript Profan Prolog Python Rebol REXX Ruby Sather Simula Sina Sirius Sisal Smalltalk SQL Tcl Tcl/Tk TOM UFO WML WAP Functional OOP Object orientated logical imperative Programmiersprachen Programmieren">
+<META NAME="DESCRIPTION" CONTENT="Hello World in 65 verschiedenen Sprachen sowie andere Beispiele in Programmiersprachen">
+<META NAME="IDENTIFIER-URL" CONTENT="http://www.s-direktnet.de/homepages/neumann/sprachen.htm ">
+<META NAME="CREATION" CONTENT="Do, 25 Mar 1999 ">
+<META NAME="REVISON" CONTENT="Sa, 20 Nov 1999 ">
+<META NAME="EXPIRES" CONTENT="Mon, 1 Jan 2000 ">
+<META NAME="ROBOTS" CONTENT="INDEX,FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="7 days"> 
+
+<!--webbot
+
+bot="HTMLMarkup" endspan --></P>
+
+<p align="center"><font color="#0080c0" size="6" face="Arial"><strong>"Hello World" in 65 
+verschiedenen Sprachen</STRONG></FONT>
+
+<br><br>
+<b><font size="+1" color="red">ACHTUNG: Diese Seite ist veraltet und wird von mir nicht mehr gepflegt. 
+<br>
+Schauen Sie auf meine <a href="http://www.s-direktnet.de/homepages/neumann/lang/lang.htm">neue Sprachseite</a>.
+</font></b>
+</p>
+
+<p align="center"><font size="2"><em>von Michael Neumann, letzte &Auml;nderung 
+20.11.1999</EM></FONT></P>
+
+<p align="center"><font size="2" face="Arial"><strong>Dokument offline: 
+</STRONG></FONT><A href="sprachen.zip"><font size="2"
+ face="Arial"><strong>sprachen.zip</STRONG></FONT></A></P>
+
+<p align="center"><a
+ href="http://www.s-direktnet.de/homepages/neumann/index.htm"><font
+ size="2" face="Arial">The Little 
+Coders Homepage</FONT></A><font
+ size="2" face="Arial"> || 
+</FONT><A href="lang_links/index.html"><font
+ size="2" face="Arial">Links zu Sprachen</FONT></A></P>
+
+
+<hr>
+
+<p align="left"><script language="JavaScript"><!--
+
+
+function choose()
+{
+   var x=document.F.SL;
+   for(var i=0;i<x.length;++i) if(x.options[i].selected)
+	{location.hash = x.options[i].value; break;}
+}
+// --></SCRIPT>
+</P>
+
+<form method="POST" name="F">
+    <p><select name="SL" size="1" onchange="choose()">
+        <option selected value="start">- 
+  Bitte Sprache ausw&auml;hlen -</OPTION>
+        <option value="ABC">ABC</OPTION>
+        <option value="Ada8395">Ada 83/9X(95)</OPTION>
+        <option value="ALGOL60">ALGOL 60</OPTION>
+        <option value="Amos">Amos</OPTION>
+        <option value="APL">APL</OPTION>
+        <option value="Intel80x86">Assembler: Intel 80x86 (DOS)</OPTION>
+        <option value="Motorola68000">Assembler: Motorola 68000 
+  (ATARI)</OPTION>
+        <option value="BASIC">BASIC</OPTION>
+        <option value="BETA">BETA</OPTION>
+        <option value="C">C</OPTION>
+        <option value="C++">C++</OPTION>
+        <option value="Cilk">Cilk</OPTION>
+        <option value="CLAIRE">CLAIRE</OPTION>
+        <option value="COBOL">COBOL</OPTION>
+        <option value="ConcurrentClean">Concurrent Clean</OPTION>
+        <option value="DOSBatch">DOS Batch</OPTION>
+        <option value="Dylan">Dylan</OPTION>
+        <option value="Eiffel">Eiffel</OPTION>
+        <option value="Emerald">Emerald</OPTION>
+        <option value="Erlang">Erlang</OPTION>
+        <option value="Euphoria">Euphoria</OPTION>
+        <option value="Forth">Forth</OPTION>
+        <option value="Fortran90">Fortran 90</OPTION>
+        <option value="Haskell">Haskell</OPTION>
+        <option value="Hope">Hope</OPTION>
+        <option value="HTML">HTML</OPTION>
+        <option value="Icon">Icon</OPTION>
+        <option value="J">J</OPTION>
+        <option value="Java">Java</OPTION>
+        <option value="JavaScript">JavaScript</OPTION>
+        <option value="Leda">Leda</OPTION>
+        <option value="Lisp">Lisp</OPTION>
+        <option value="Logo">Logo</OPTION>
+        <option value="ML">ML</OPTION>
+        <option value="Modula2">Modula-2</OPTION>
+        <option value="Modula3">Modula-3</OPTION>
+        <option value="NESL">NESL</OPTION>
+        <option value="Oberon">Oberon</OPTION>
+        <option value="ObjectiveC">Objective-C</OPTION>
+        <option value="Obliq">Obliq</OPTION>
+        <option value="OzMozart">Oz/Mozart</OPTION>
+        <option value="Pascal">Pascal</OPTION>
+        <option value="Perl">Perl</OPTION>
+        <option value="Phantom">Phantom</OPTION>
+        <option value="PHP3">PHP3</OPTION>
+        <option value="PL0E">PL/0E</OPTION>
+        <option value="PL1">PL/1</OPTION>
+        <option value="Postscript">Postscript</OPTION>
+        <option value="Profan">Profan</OPTION>        
+        <option value="Prolog">Prolog</OPTION>
+        <option value="Python">Python</OPTION>
+        <option value="Rebol">Rebol</OPTION>
+        <option value="REXX">REXX</OPTION>
+        <option value="Ruby">Ruby</OPTION>
+        <option value="Sather">Sather</OPTION>
+        <option value="Simula67">Simula 67</OPTION>
+        <option value="Sina">Sina</OPTION>
+        <option value="Sirius">Sirius</OPTION>
+        <option value="Sisal">Sisal</OPTION>
+        <option value="Smalltalk">Smalltalk</OPTION>
+        <option value="SQL">SQL</OPTION>
+        <option value="TclTk">Tcl/Tk</OPTION>
+        <option value="TOM">TOM</OPTION>
+        <option value="UFO">UFO</OPTION>
+        <option value="WML">WML</OPTION>
+</SELECT> </P></FORM>
+
+
+<p align="left"><A href="#ABC">ABC</A></P>
+<p align="left"><A href="#Ada8395">Ada 83/9X(95)</A> </P>
+<p align="left"><A href="#ALGOL60">ALGOL 60</A></P>
+<p align="left"><A href="#Amos">Amos</A></P>
+<p align="left"><A href="#APL">APL</A></P>
+<p align="left"><A href="#Intel80x86">Assembler: Intel 80x86 (DOS)</A></P>
+<p align="left"><A href="#Motorola68000">Assembler: Motorola 68000 (ATARI)</A></P>
+<p align="left"><A href="#BASIC">BASIC</A></P>
+<p align="left"><A href="#BETA">BETA</A></P>
+<p align="left"><A href="#C">C</A></P>
+<p align="left"><A href="#C++">C++</A></P>
+<p align="left"><A href="#Cilk">Cilk</A></P>
+<p align="left"><A href="#CLAIRE">CLAIRE</A></P>
+<p align="left"><A href="#COBOL">COBOL</A></P>
+<p align="left"><A href="#ConcurrentClean">Concurrent Clean</A></P>
+<p align="left"><A href="#DOSBatch">DOS Batch</A></P>
+<p align="left"><A href="#Dylan">Dylan</A></P>
+<p align="left"><A href="#Eiffel">Eiffel</A></P>
+<p align="left"><A href="#Emerald">Emerald</A></P>
+<p align="left"><A href="#Erlang">Erlang</A></P>
+<p align="left"><A href="#Euphoria">Euphoria</A> </P>
+<p align="left"><A href="#Forth">Forth</A></P>
+<p align="left"><A href="#Fortran90">Fortran 90</A></P>
+<p align="left"><A href="#Haskell">Haskell</A></P>
+<p align="left"><A href="#Hope">Hope</A></P>
+<p align="left"><A href="#HTML">HTML</A></P>
+<p align="left"><A href="#Icon">Icon</A></P>
+<p align="left"><A href="#J">J</A></P>
+<p align="left"><A href="#Java">Java</A></P>
+<p align="left"><A href="#JavaScript">JavaScript</A></P>
+<p align="left"><A href="#Leda">Leda</A></P>
+<p align="left"><A href="#Lisp">Lisp</A></P>
+<p align="left"><A href="#Logo">Logo</A></P>
+<p align="left"><A href="#ML">ML</A> </P>
+<p align="left"><A href="#Modula2">Modula-2</A></P>
+<p align="left"><A href="#Modula3">Modula-3</A></P>
+<p align="left"><A href="#NESL">NESL</A></P>
+<p align="left"><A href="#Oberon">Oberon</A></P>
+<p align="left"><A href="#ObjectiveC">Objective-C</A></P>
+<p align="left"><A href="#Obliq">Obliq</A></P>
+<p align="left"><A href="#OzMozart">Oz/Mozart</A></P>
+<p align="left"><A href="#Pascal">Pascal</A></P>
+<p align="left"><A href="#Perl">Perl</A></P>
+<p align="left"><A href="#Phantom">Phantom</A></P>
+<p align="left"><A href="#PHP3">PHP3</A></P>
+<p align="left"><A href="#PL0E">PL/0E</A></P>
+<p align="left"><A href="#PL1">PL/1</A></P>
+<p align="left"><A href="#Postscript">Postscript</A></P>
+<p align="left"><A href="#Profan">Profan</A><IMG height=12 src="new.gif" width=31 ></P>
+<p align="left"><A href="#Prolog">Prolog</A></P>
+<p align="left"><A href="#Python">Python</A></P>
+<p align=left><A href="#Rebol" >Rebol</A></P>
+<p align=left><A href="#REXX" >REXX</A></P>
+<p align=left><A href="#Ruby" >Ruby</A></P>
+<p align=left><A href="#Sather" >Sather</A></P>
+<p align=left><A href="#Simula67" >Simula 67</A></P>
+<p align=left><A href="#Sina" >Sina</A></P>
+<p align=left><A href="#Sirius" >Sirius</A></P>
+<p align=left><A href="#Sisal" >Sisal</A></P>
+<p align=left><A href="#Smalltalk" >Smalltalk</A></P>
+<p align=left><A href="#SQL" >SQL</A><IMG height=12 src="new.gif" width=31 ></P>
+<p align=left><A href="#TclTk" >Tcl/Tk</A></P>
+<p align=left><A href="#TOM" >TOM</A></P>
+<p align=left><A href="#UFO" >UFO</A></P>
+<p align=left><A href="#WML" >WML</A><IMG height=12 src="new.gif" width=31 ></P>
+<hr>
+
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=ABC><font 
+color=#ff0000 face="Courier New" size=5><strong><u>ABC</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>WRITE</STRONG></FONT> <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>FOR</STRONG></FONT> i <font color=#0000a0><strong>IN</STRONG></FONT> {1..10}
+   <font color=#0000a0><strong>WRITE</STRONG></FONT> i*i</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Ada8395><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Ada 
+83/9X(95)</U></STRONG></FONT></A></P>
+<p align=left><font color=#004080><em>-- In Ada 83 muß man "Ada.Text_IO" durch "Text_IO" 
+ersetzen!</EM></FONT></P>
+<div align=left><pre><font color=#0000a0><strong>with</STRONG></FONT> Ada.Text_IO; <font color=#0000a0><strong>use</STRONG></FONT> Ada.Text_IO;
+
+<font color=#0000a0><strong>procedure</STRONG></FONT> HelloWorld <font color=#0000a0><strong>is
+
+begin
+
+</STRONG></FONT>    Put_Line(<font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>end</STRONG></FONT> HelloWorld</PRE></DIV><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE>
+<div align=left><pre><font color=#0000a0><strong>procedure</STRONG></FONT> Test <font color=#0000a0><strong>is
+
+with</STRONG></FONT> Ada.Text_IO; <font color=#0000a0><strong>use</STRONG></FONT> Ada.Text_IO;
+
+<font color=#0000a0><strong>package</STRONG></FONT> MyInt <font color=#0000a0><strong>is</STRONG></FONT> <font color=#0000a0><strong>new</STRONG></FONT> Integer_IO(Integer);
+
+<font color=#0000a0><strong>begin
+
+</STRONG></FONT>    <font color=#0000a0><strong>for</STRONG></FONT> I <font color=#0000a0><strong>in</STRONG></FONT> 1..10 <font color=#0000a0><strong>loop
+
+</STRONG></FONT>	MyInt.Put(I*I);
+
+	Put(<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>);
+
+    <font color=#0000a0><strong>end loop</STRONG></FONT>;
+
+    New_Line;
+
+<font color=#0000a0><strong>end</STRONG></FONT> Test</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=ALGOL60><font 
+color=#ff0000 face="Courier New" size=5><strong><u>ALGOL 
+60</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>'begin'</STRONG></FONT>
+
+   outstring(2, <font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>'end'</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>'begin'
+
+</STRONG></FONT>   <font color=#0000a0><strong>'string'</STRONG></FONT>  s := <font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>;
+
+   <font color=#0000a0><strong>'integer'</STRONG></FONT> i;
+
+
+
+<font color=#0000a0><strong>   'for'</STRONG></FONT> i := 1 <font color=#0000a0><strong>'step'</STRONG></FONT> 1 <font color=#0000a0><strong>'until'</STRONG></FONT> length(s) <font color=#0000a0><strong>'do'</STRONG></FONT> outsymbol(2,s,i);
+
+<font color=#0000a0><strong>'end'</STRONG></FONT></PRE></DIV><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE><pre><font color=#0000a0><strong>'begin'</STRONG></FONT> <font color=#0000a0><strong>'comment'</STRONG></FONT> <font color=#0000ff>gibt die Quadrate von 1 bis 10 aus</FONT>;
+
+<font color=#0000a0><strong>   'integer'</STRONG></FONT> i;
+
+
+
+<font color=#0000a0><strong>   'for'</STRONG></FONT> i := 1 <font color=#0000a0><strong>'step'</STRONG></FONT> 1 <font color=#0000a0><strong>'until'</STRONG></FONT> 10 <font color=#0000a0><strong>'do'
+
+</STRONG></FONT>   <font color=#0000a0><strong>'begin'
+
+</STRONG></FONT>      outinteger(2,i*i);
+
+   <font color=#0000a0><strong>'end'</STRONG></FONT> <font color=#0000ff>--for-----diese Schleife gibt die Quadrate aus
+
+</FONT><font color=#0000a0><strong>'end'</STRONG></FONT> <font color=#0000ff>--Ende des Programmes</FONT></PRE>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Amos><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Amos</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>PRINT</STRONG></FONT> <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT></PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=APL><font 
+color=#ff0000 face="Courier New" size=5><strong><u>APL</U></STRONG></FONT></A></P>
+<div align=left><pre>'Hello World'</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>(<font face=Symbol>i</FONT>10)<font face=Symbol>´</FONT>(<font face=Symbol>i</FONT>10)</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>(7 3<font face=Symbol>ë</FONT>3 9)<font face=Symbol>r</FONT>(<font face=Symbol>i</FONT>9)<font face=Symbol>´</FONT>(<font face=Symbol>i</FONT>9)</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9</PRE></DIV>
+<div align=left><pre>16 25 36</PRE></DIV>
+<div align=left><pre>49 64 81</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Intel80x86><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Assembler: Intel 80x86 
+(DOS)</U></STRONG></FONT></A></P>
+<div align=left><pre>; WRITTEN IN TASM (Turbo Assembler)</PRE></DIV>
+<div align=left><pre>.MODEL TINY</PRE></DIV>
+<div align=left><pre>CODE SEGMENT</PRE></DIV>
+<div align=left><pre>ASSUME CS:CODE, DS:CODE</PRE></DIV>
+<div align=left><pre>ORG 100h</PRE></DIV>
+<div align=left><pre>START:</PRE></DIV>
+<div align=left><pre>	mov ah,9</PRE></DIV>
+<div align=left><pre>	mov dx,OFFSET Msg</PRE></DIV>
+<div align=left><pre>	int 21h</PRE></DIV>
+<div align=left><pre>	int 20h</PRE></DIV>
+<div align=left><pre>	Msg DB 'Hello World',13,10,'$'</PRE></DIV>
+<div align=left><pre>CODE ENDS</PRE></DIV>
+<div align=left><pre>END START</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Motorola68000><font color=#ff0000 face="Courier New" size=5><strong><u>Assembler: Motorola 68000 
+(ATARI)</U></STRONG></FONT></A></P>
+<div align=left><pre>start:</PRE></DIV>
+<div align=left><pre>	; Message-String ausgeben</PRE></DIV>
+<div align=left><pre>	move.l #msg,-(a7)</PRE></DIV>
+<div align=left><pre>	move.w #9,-(a7)	</PRE></DIV>
+<div align=left><pre>	trap #1</PRE></DIV>
+<div align=left><pre>	addq.l #6,a7</PRE></DIV>
+<p align=left>&nbsp;</P>
+<div align=left><pre>	; auf Taste warten</PRE></DIV>
+<div align=left><pre>	move.w #1,-(a7)</PRE></DIV>
+<div align=left><pre>	trap #1</PRE></DIV>
+<div align=left><pre>	addq.l	#2,a7</PRE></DIV>
+<p align=left>&nbsp;</P>
+<div align=left><pre>	; Programm beenden</PRE></DIV>
+<div align=left><pre>	clr -(a7)</PRE></DIV>
+<div align=left><pre>	trap #1</PRE></DIV>
+<p align=left>&nbsp;</P>
+<div align=left><pre>	msg: dc.b "Hello World",10,13,0</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=BASIC><font 
+color=#ff0000 face="Courier New" size=5><strong><u>BASIC</U></STRONG></FONT></A></P>
+<div align=left><pre>PRINT <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>FOR</STRONG></FONT> I=1 <font color=#0000a0><strong>TO</STRONG></FONT> 10
+
+   PRINT I*I;
+
+<font color=#0000a0><strong>NEXT</STRONG></FONT> I</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=BETA><font 
+color=#ff0000 face="Courier New" size=5><strong><u>BETA</U></STRONG></FONT></A><font 
+color=#ff0000 face="Courier New" size=5> </FONT><A href="beta.htm" >Infos</A></P>
+<div align=left><pre>(#
+
+do
+
+   'Hello World' -&gt; putline
+
+#)</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>(#
+
+do
+
+   (for i:10 repeat
+
+      i*i -&gt; putint
+
+   for)
+
+#)</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>(#
+
+   schleife: (# n: @integer
+
+              enter n
+
+              do (for n repeat inner for)
+
+              #)
+
+do
+
+   9 -&gt; schleife (#
+
+                  do 10-n -&gt; schleife (#
+
+                                      do n -&gt; putint; ' ' -&gt; put
+
+                                      #) newline
+
+                  #)
+
+#)</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 2 3 4 5 6 7 8 9
+
+1 2 3 4 5 6 7 8
+
+1 2 3 4 5 6 7
+
+1 2 3 4 5 6
+
+1 2 3 4 5
+
+1 2 3 4
+
+1 2 3
+
+1 2
+
+1</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=C><font 
+color=#ff0000 face="Courier New" size=5><strong><u>C</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>#include &lt;stdio.h&gt;
+
+
+
+</FONT>main() {
+
+   printf(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>);
+
+}</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=C++><font 
+color=#ff0000 face="Courier New" size=5><strong><u>C++</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>#include &lt;stdio.h&gt;
+
+</FONT>
+
+<font color=#0000a0><strong>void</STRONG></FONT> main()
+
+{
+
+   printf(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>);
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>#include &lt;iostream.h&gt;</FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>void</STRONG></FONT> main()
+
+{
+
+   cout &lt;&lt; <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT> &lt;&lt; endl;
+
+}</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Cilk><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Cilk</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>#include &lt;stdio.h&gt;
+
+</FONT><font color=#0000a0><strong>
+
+cilk</STRONG></FONT> <font color=#0000a0><strong>void</STRONG></FONT> main()
+
+{
+
+   printf(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>);
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>/* Cilk ist fast C */
+
+#include &lt;stdio.h&gt;
+
+</FONT><font color=#0000a0><strong>
+
+cilk</STRONG></FONT> <font color=#0000a0><strong>void</STRONG></FONT> main()
+
+{
+
+   <font color=#0000a0><strong>int</STRONG></FONT> i;
+
+   <font color=#0000a0><strong>for</STRONG></FONT>(i=1; i&lt;=10; ++i) printf(<font color=#ff0080><em><strong>"%d "</STRONG></EM></FONT>, i*i);
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=CLAIRE><font 
+color=#ff0000 face="Courier New" size=5><strong><u>CLAIRE</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>;; Hello World in CLAIRE</FONT>
+
+[ main() -&gt; printf(<font color=#ff0080><strong>"Hello World\n"</STRONG></FONT>) ]</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>[
+
+main() -&gt;
+
+    <font color=#0000a0><strong>for</STRONG></FONT> i <font color=#0000a0><strong>in</STRONG></FONT> (1 .. 10) printf(<font color=#ff0080><strong>"~S "</STRONG></FONT>,i * i)
+
+]</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=COBOL><font 
+color=#ff0000 face="Courier New" size=5><strong><u>COBOL</U></STRONG></FONT></A><font 
+color=#ff0000 face="Courier New" size=5> </FONT><a 
+href="http://www.netcologne.de/~nc-kuehlest/cobein.html">Infos</A></P><pre>IDENTIFICATION DIVISION.
+
+PROGRAM-ID. HelloWorld.
+
+AUTHOR. Fabritius.
+
+</PRE><pre>ENVIRONMENT DIVISION.
+
+CONFIGURATION SECTION.
+
+INPUT-OUTPUT SECTION.
+
+</PRE><pre>DATA DIVISION.
+
+FILE SECTION.
+
+WORKING-STORAGE SECTION.
+
+LINKAGE SECTION.
+
+</PRE><pre>PROCEDURE DIVISION.
+
+DISPLAY "Hello World".
+
+STOP RUN.</PRE>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=ConcurrentClean><font color=#ff0000 face="Courier New" size=5><strong><u>Concurrent Clean</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>// Hello World
+
+</FONT><font color=#0000a0><strong>module</STRONG></FONT> helloworld
+
+<font color=#0000a0><strong>import</STRONG></FONT> StdEnv
+
+
+
+Start:: String
+
+Start = <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>module</STRONG></FONT> test
+
+<font color=#0000a0><strong>import</STRONG></FONT> StdEnv
+
+
+
+Start:: [(Int, String)]
+
+Start = [(a*a,<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>) \\ a &lt;- [1..10]]</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=DOSBatch><font 
+color=#ff0000 face="Courier New" size=5><strong><u>DOS 
+Batch</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>@ECHO</STRONG></FONT> OFF
+
+<font color=#0000a0><strong>ECHO</STRONG></FONT> Hello World</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>@ECHO</STRONG></FONT> OFF
+
+<font color=#0000ff>REM Gibt die Zahlen 0-99 aus
+
+REM Diese Datei muß numbers.bat heißen
+
+
+
+</FONT><font color=#0000a0><strong>IF</STRONG></FONT> <font color=#ff0080><strong>"%1"</STRONG></FONT> == <font color=#ff0080><strong>""</STRONG></FONT>       <font color=#0000a0><strong>GOTO</STRONG></FONT> outer
+
+<font color=#0000a0><strong>IF</STRONG></FONT> <font color=#ff0080><strong>"%1"</STRONG></FONT> == <font color=#ff0080><strong>"output"</STRONG></FONT> <font color=#0000a0><strong>GOTO</STRONG></FONT> output
+
+<font color=#0000a0><strong>IF</STRONG></FONT> <font color=#ff0080><strong>"%1"</STRONG></FONT> == <font color=#ff0080><strong>"inner"</STRONG></FONT>  <font color=#0000a0><strong>GOTO</STRONG></FONT> inner
+
+<font color=#0000a0><strong>GOTO</STRONG></FONT> exit
+
+
+
+:inner
+
+<font color=#0000a0><strong>FOR</STRONG></FONT> %%i <font color=#0000a0><strong>IN</STRONG></FONT> (0 1 2 3 4 5 6 7 8 9) <font color=#0000a0><strong>DO</STRONG></FONT> <font color=#0000a0><strong>CALL</STRONG></FONT> numbers output %2 %%i
+
+<font color=#0000a0><strong>GOTO</STRONG></FONT> exit
+
+
+
+:outer
+
+<font color=#0000a0><strong>FOR</STRONG></FONT> %%i <font color=#0000a0><strong>IN</STRONG></FONT> (0 1 2 3 4 5 6 7 8 9) <font color=#0000a0><strong>DO</STRONG></FONT> <font color=#0000a0><strong>CALL</STRONG></FONT> numbers inner %%i
+
+<font color=#0000a0><strong>GOTO</STRONG></FONT> exit
+
+
+
+:output
+
+<font color=#0000a0><strong>IF</STRONG></FONT> <font color=#ff0080><strong>"%2"</STRONG></FONT> == <font color=#ff0080><strong>"0"</STRONG></FONT> <font color=#0000a0><strong>ECHO</STRONG></FONT> %3
+
+<font color=#0000a0><strong>IF</STRONG></FONT> <font color=#0000a0><strong>NOT</STRONG></FONT> <font color=#ff0080><strong>"%2"</STRONG></FONT> == <font color=#ff0080><strong>"0"</STRONG></FONT> <font color=#0000a0><strong>ECHO</STRONG></FONT> %2%3
+
+
+
+:exit</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><em>die Zahlen von 0 bis 99</EM></PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Dylan><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Dylan</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong><u>define</U></STRONG></FONT> <font color=#0000a0><strong><u>method</U></STRONG></FONT> hello-world()</PRE></DIV>
+<div align=left><pre>	format-out("Hello World\n");</PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong><u>end</U></STRONG></FONT> <font color=#0000a0><strong><u>method</U></STRONG></FONT> hello-world;</PRE></DIV>
+<div align=left><pre>hello-world();</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong><u>for</U></STRONG></FONT> (i :: &lt;integer&gt; <font color=#0000a0><strong><u>from</U></STRONG></FONT> 1 <font color=#0000a0><strong><u>to</U></STRONG></FONT> 10)</PRE></DIV>
+<div align=left><pre>	format-out("%d ",i * i);</PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong><u>end</U></STRONG></FONT> <font color=#0000a0><strong><u>for</U></STRONG></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Eiffel><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Eiffel</U></STRONG></FONT></A><font 
+color=#ff0000 face="Courier New" size=5> </FONT><A href="eiffel.htm" >Infos</A></P>
+<div align=left><pre><font color=#0000a0><strong><u>indexing</U></STRONG></FONT></PRE></DIV>
+<div align=left><pre>	title: <font color=#8080c0>	</FONT><font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>;</PRE></DIV>
+<div align=left><pre>	author:	<font color=#ff0080><em><strong>"Michael Neumann"</STRONG></EM></FONT>;</PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong><u>class</U></STRONG></FONT> MAIN <font color=#0000a0><strong><u>creation</U></STRONG></FONT></PRE></DIV>
+<div align=left><pre>	make</PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong><u>feature</U></STRONG></FONT></PRE></DIV>
+<div align=left><pre>	make <font color=#0000a0><strong><u>is</U></STRONG></FONT></PRE></DIV>
+<div align=left><pre>	<font color=#0000a0><strong><u>do</U></STRONG></FONT></PRE></DIV>
+<div align=left><pre>		io.put_string(<font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>);</PRE></DIV>
+<div align=left><pre>		io.new_line</PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>	</STRONG><strong><u>end</U></STRONG></FONT> <font color=#0000ff>-- make</FONT></PRE></DIV>
+<div align=left><pre> <font color=#0000a0><strong><u>end</U></STRONG></FONT> <font color=#0000ff>-- class MAIN</FONT></PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Emerald><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Emerald</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>const</STRONG></FONT> HelloWorld ==
+
+
+
+<font color=#0000ff>%
+
+% Hello World in Emerald
+
+%
+
+</FONT>
+
+   <font color=#0000a0><strong>object</STRONG></FONT> HelloWorld
+
+      <font color=#0000a0><strong>process</STRONG></FONT>
+
+         stdout.putstring[<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>]
+
+         stdin.close
+
+         stdout.close
+
+      <font color=#0000a0><strong>end process</STRONG></FONT>
+
+   <font color=#0000a0><strong>end</STRONG></FONT> HelloWorld</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>const</STRONG></FONT> Test ==
+
+   <font color=#0000a0><strong>object</STRONG></FONT> Test
+
+      <font color=#0000a0><strong>process</STRONG></FONT>
+
+         <font color=#0000a0><strong>var</STRONG></FONT> i : Integer
+
+         
+
+         i &lt;- 1
+
+         <font color=#0000a0><strong>loop</STRONG></FONT>
+
+            <font color=#0000a0><strong>exit when</STRONG></FONT> (i&gt;10)
+
+            
+
+            stdout.putint[i*i] 
+
+            stdout.putstring[<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>]
+
+         <font color=#0000a0><strong>end loop</STRONG></FONT>
+
+	 
+
+         stdin.close
+
+         stdout.close
+
+      <font color=#0000a0><strong>end process</STRONG></FONT>
+
+   <font color=#0000a0><strong>end</STRONG></FONT> Test</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Erlang><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Erlang</U></STRONG></FONT></A></P>
+<div align=left><pre>io:fwrite(<font color=#ff0080><em><strong>"Hello World~n"</STRONG></EM></FONT>).	<font color=#0000ff>%% im Eingabemodus</FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>%%
+
+%% language: Erlang 4.7.3
+
+%% author:   Michael Neumann
+
+%% file:     test.erl
+
+%% 
+
+</FONT>
+
+<font color=#0000a0><strong>-module</STRONG></FONT>(test).
+
+<font color=#0000a0><strong>-export</STRONG></FONT>([main/1]).
+
+
+
+main(0) -&gt; [];
+
+main(N) -&gt; main(N-1),
+
+           io:fwrite(<font color=#ff0080><em><strong>"~w "</STRONG></EM></FONT>,[N*N]).
+
+
+
+<font color=#0000ff>%% Eingabemodus:
+
+</FONT>c(<font color=#ff0080><em><strong>"test.erl"</STRONG></EM></FONT>).	<font color=#0000ff>%% l&auml;dt test.erl</FONT>
+
+test:main(10).</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Euphoria><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Euphoria</U></STRONG></FONT></A></P>
+<div align=left><pre>puts (1, <font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>)</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>for</STRONG></FONT> i=1 <font color=#0000a0><strong>to</STRONG></FONT> 10 <font color=#0000a0><strong>do
+
+</STRONG></FONT>   print(1,i*i)
+
+   puts(1,<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>)
+
+<font color=#0000a0><strong>end for</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Forth><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Forth</U></STRONG></FONT></A></P>
+<div align=left><pre>." Hello World"</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>: say_hello ." Hello World" ;</PRE></DIV>
+<div align=left><pre>say_hello</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>: IS 0 DO I . LOOP ;</PRE></DIV>
+<div align=left><pre>: AS 0 DO CR 1 - DUP IS LOOP ;</PRE></DIV>
+<div align=left><pre>11 10 AS</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>0 1 2 3 4 5 6 7 8 9
+
+0 1 2 3 4 5 6 7 8
+
+0 1 2 3 4 5 6 7
+
+0 1 2 3 4 5 6
+
+0 1 2 3 4 5
+
+0 1 2 3 4
+
+0 1 2 3
+
+0 1 2
+
+0 1
+
+0</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>zur Abschreckung:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>10000 constant ztsd  variable zs  2variable tr</PRE></DIV>
+<div align=left><pre>: zins ztsd m/mod swap zs @ ztsd */ swap zs @ 1 */ + 1 m* ;</PRE></DIV>
+<div align=left><pre>: restd1 2dup zins d+ tr 2@ d- ; ( d -- d )</PRE></DIV>
+<div align=left><pre>: restd 0 do restd1 loop ; ( d -- d )</PRE></DIV>
+<div align=left><pre>: tdauer 0 &gt;r 2dup zins tr 2@ d&lt; if begin r&gt; 1 + &gt;r restd1 2dup tr 2@ d&lt; until</PRE></DIV>
+<div align=left><pre>2dup d0= if 0 else 1 then r&gt; + else ." keine Tilgung " then ; ( d -- d n )</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Fortran90><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Fortran 
+90</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>PROGRAM</STRONG></FONT> HelloWorld
+
+
+
+   PRINT *, <font color=#ff0080><em><strong>"Hello World"
+
+</STRONG></EM></FONT><font color=#0000a0><strong>
+
+END PROGRAM</STRONG></FONT> HelloWorld</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Haskell><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Haskell</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>module</STRONG></FONT><font color=#000000> HelloWorld (main) </FONT><font color=#0000a0><strong>where</STRONG></FONT><font color=#000000>
+
+main = </FONT><font color=#0000a0><strong>putStr</STRONG></FONT><font color=#000000> </FONT><font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT></PRE></DIV>
+
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>--
+
+-- written in Haskell 1.4 (Hugs 1.4 for Windows)
+
+-- by Michael Neumann
+
+-- 
+
+</FONT>
+
+<font color=#0000a0><strong>module</STRONG></FONT> Test (main) <font color=#0000a0><strong>where</STRONG></FONT>
+
+
+
+square :: [<font color=#0000a0><strong>Int</STRONG></FONT>] -&gt; <font color=#0000a0><strong>String</STRONG></FONT>
+
+square []    = <font color=#ff0080><em><strong>"\n"</STRONG></EM></FONT>
+
+square (h:t) = <font color=#0000a0><strong>show</STRONG></FONT> (h*h) ++ <font color=#ff0080><em><strong>" "</STRONG></EM></FONT> ++ square t
+
+
+
+main = <font color=#0000a0><strong>putStr</STRONG></FONT> (square [1..10])</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+
+
+
+
+
+
+
+
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>--
+-- von Matthias Mann
+-- 
+</FONT>
+<font color=#0000a0><strong>module</STRONG></FONT> Test (main) <font color=#0000a0><strong>where</STRONG></FONT>
+
+<font color=#0000a0><strong>import</STRONG></FONT> List
+
+main = 
+   <font color=#0000a0><strong>putStr</STRONG></FONT> . <font color=#0000a0><strong>concat</STRONG></FONT> . <font color=#0000a0><strong>intersperse</STRONG></FONT> <font color=#ff0080><em><strong>" "</STRONG></EM></FONT> . <font color=#0000a0><strong>map</STRONG></FONT> (<font color=#0000a0><strong>show</STRONG></FONT> . (^2))) [1..10]
+</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+
+
+
+
+
+
+
+
+
+
+
+<div align=left><pre><font face=Arial><em><strong>Quicksort: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>quicksort [] = []
+
+quicksort (s:xs) = quicksort [x|x&lt;-xs,x&lt;s] ++ [s] ++ quicksort [x|x&lt;-xs,x&gt;=s]</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Hope><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Hope</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>! gibt die Quadrate von 1 bis 10 aus
+
+</FONT><font color=#0000a0><strong>dec</STRONG></FONT> squares : <font color=#0000a0><strong>num</STRONG></FONT> -&gt; <font color=#0000a0><strong>list</STRONG></FONT>(<font color=#0000a0><strong>num</STRONG></FONT>);
+
+--- squares 0 &lt;= <font color=#0000a0><strong>nil</STRONG></FONT>;
+
+--- squares x &lt;= squares(x-1) &lt;&gt; [x*x];
+
+
+
+squares 10;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left>
+<a name=HTML><font color=#ff0000 face="Courier New" size=5><strong><u>HTML</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#000000>&lt;html&gt;
+
+&lt;body&gt;
+
+Hello World
+
+&lt;/body&gt;
+
+&lt;/html&gt;</FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>es geht aber auch einfacher:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#000000>Hello World</FONT></PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Icon><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Icon</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>procedure</STRONG></FONT> main(args)
+
+    write(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>)
+
+<font color=#0000a0><strong>end</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff># gibt die Quadrate von 1 bis 10 aus
+
+</FONT><font color=#0000a0><strong>procedure</STRONG></FONT> main(args)
+
+    <font color=#0000a0><strong>every</STRONG></FONT> i := 1 <font color=#0000a0><strong>to</STRONG></FONT> 10 <font color=#0000a0><strong>do</STRONG></FONT> {
+
+        write(i*i, " ")
+
+    }
+
+<font color=#0000a0><strong>end</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=J><font 
+color=#ff0000 face="Courier New" size=5><strong><u>J</U></STRONG></FONT></A></P>
+<div align=left><pre>'Hello World'</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>a =. 1 + i. 10
+
+a * a</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>+/ % ! i. 9</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>2.71828    # Eulersche Zahl</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Java><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Java</U></STRONG></FONT></A></P>
+<div align=left><pre><font face=Arial><em><strong>Application:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>public class</STRONG></FONT> HelloWorld {
+
+   <font color=#0000a0><strong>public static void</STRONG></FONT> main(String[] args) {
+
+      System.out.println(<font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>);
+
+   }
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>Applett:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>public class</STRONG></FONT> HelloWorld <font color=#0000a0><strong>extends</STRONG></FONT> Applet {
+
+   <font color=#0000a0><strong>public void</STRONG></FONT> paint(Graphics g) {
+
+      g.drawString(<font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>,10,10);
+
+   }
+
+}</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=JavaScript><font 
+color=#ff0000 face="Courier New" size=5><strong><u>JavaScript</U></STRONG></FONT></A></P>
+<div align=left><pre><font face=Arial><em><strong>JavaScript (blau) muß in eine HTML-Seite eingebunden werden:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#000000>&lt;html&gt;
+
+&lt;body onload="onload()"&gt;
+
+&lt;script language="JavaScript"&gt;
+
+&lt;!--
+
+</FONT><font color=#0000ff><strong>
+
+function onload() {
+
+   document.writeln('Hello World');
+
+}
+
+
+
+</STRONG></FONT><font color=#000000>//--&gt;
+
+&lt;/script&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</FONT></PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Leda><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Leda</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>{ Hello World in Leda }
+
+</FONT><font color=#0000a0><strong>
+
+include</STRONG></FONT> "std.led";
+
+<font color=#0000a0><strong>begin</STRONG></FONT>
+
+   print(<font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>end</STRONG></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>include</STRONG></FONT> "std.led";
+
+
+
+<font color=#0000a0><strong>var</STRONG></FONT> i:integer;
+
+
+
+<font color=#0000a0><strong>begin</STRONG></FONT>
+
+   <font color=#0000a0><strong>for</STRONG></FONT> i:=1 <font color=#0000a0><strong>to</STRONG></FONT> 10 <font color=#0000a0><strong>do</STRONG></FONT> 
+
+   <font color=#0000a0><strong>begin</STRONG></FONT>
+
+      print(<font color=#ff0080><em><strong>""</STRONG></EM></FONT>+i*i+<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>);   
+
+   <font color=#0000a0><strong>end</STRONG></FONT>;
+
+<font color=#0000a0><strong>end</STRONG></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Lisp><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Lisp</U></STRONG></FONT></A></P>
+<div align=left><pre>(print "Hello World")</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>(let ( (a 0) )</PRE></DIV>
+<div align=left><pre>  (while (&lt; a 20)</PRE></DIV>
+<div align=left><pre>    (princ a) (princ " ")</PRE></DIV>
+<div align=left><pre>    (setq a (+ a 1))</PRE></DIV>
+<div align=left><pre>  )</PRE></DIV>
+<div align=left><pre>)</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Logo><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Logo</U></STRONG></FONT></A></P>
+<div align=left><pre>print [Hello World]</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=ML><font 
+color=#ff0000 face="Courier New" size=5><strong><u>ML</U></STRONG></FONT></A></P>
+<div align=left><pre>print <font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>fun</STRONG></FONT> iter (a,b) =
+
+    <font color=#0000a0><strong>if</STRONG></FONT> a &lt;= b <font color=#0000a0><strong>then</STRONG></FONT> (print(Int.toString(a*a)^<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>); iter(a+1,b) )
+
+    <font color=#0000a0><strong>else</STRONG></FONT> print <font color=#ff0080><em><strong>"\n"</STRONG></EM></FONT>;
+
+
+
+iter(1,10);</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>fun</STRONG></FONT> iter 0 = <font color=#ff0080><em><strong>""
+
+</STRONG></EM></FONT>|   iter n = (iter(n-1); print(Int.toString(n*n)^<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>); <font color=#ff0080><em><strong>"\n"</STRONG></EM></FONT>);
+
+
+
+print(iter 10);</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergeben:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Modula2><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Modula-2</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>(* Hello World! *)
+
+</FONT><font color=#0000a0><strong>MODULE</STRONG></FONT> HelloWorld;
+
+
+
+<font color=#0000a0><strong>FROM</STRONG></FONT> InOut <font color=#0000a0><strong>IMPORT</STRONG></FONT> WriteString, WriteLn;
+
+
+
+<font color=#0000a0><strong>BEGIN
+
+</STRONG></FONT>   WriteString(<font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>);
+
+   WriteLn;
+
+<font color=#0000a0><strong>END</STRONG></FONT> HelloWorld.</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Modula3><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Modula-3</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>(* Hello World! *)
+
+</FONT><font color=#0000a0><strong>MODULE</STRONG></FONT> HelloWorld <font color=#0000a0><strong>EXPORTS</STRONG></FONT> Main;
+
+
+
+<font color=#0000a0><strong>IMPORT </STRONG></FONT>SIO<font color=#0000a0><strong>;</STRONG></FONT>
+
+
+
+<font color=#0000a0><strong>BEGIN
+
+</STRONG></FONT>   SIO.PutText(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>END</STRONG></FONT> HelloWorld.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>MODULE</STRONG></FONT> Test <font color=#0000a0><strong>EXPORTS</STRONG></FONT> Main;
+
+
+
+<font color=#0000a0><strong>IMPORT</STRONG></FONT> SIO;
+
+
+
+<font color=#0000a0><strong>BEGIN</STRONG></FONT>
+
+   <font color=#0000a0><strong>FOR</STRONG></FONT> i:=1 <font color=#0000a0><strong>TO</STRONG></FONT> 10 <font color=#0000a0><strong>DO</STRONG></FONT>
+
+      SIO.PutInt(i*i);
+
+      SIO.PutText(<font color=#ff0080><em><strong>" "</STRONG></EM></FONT>);
+
+   <font color=#0000a0><strong>END</STRONG></FONT>;
+
+<font color=#0000a0><strong>END</STRONG></FONT> Test.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=NESL><font 
+color=#ff0000 face="Courier New" size=5><strong><u>NESL</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>% Hello World %</FONT>
+
+print_string(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>);</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>function</STRONG></FONT> pt(x) = print_string( @(a*a) ++ <font color=#ff0080><em><strong>" "</STRONG></EM></FONT> );
+
+{ pt(a) : a in [1..11] };</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Oberon><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Oberon</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>MODULE</STRONG></FONT> HelloWorld;
+
+
+
+<font color=#0000a0><strong>IMPORT</STRONG></FONT> Out;
+
+
+
+<font color=#0000a0><strong>BEGIN</STRONG></FONT>
+
+   Out.Open;
+
+   Out.String(<font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>END</STRONG></FONT> HelloWorld.</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=ObjectiveC><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Objective-C</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>void</STRONG></FONT> main()
+
+{
+
+   printf(<font color=#ff0080><strong>"Hello World\n"</STRONG></FONT>);
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>void</STRONG></FONT> main()
+
+{
+
+   <font color=#0000a0><strong>int</STRONG></FONT> i;
+
+   <font color=#0000a0><strong>for</STRONG></FONT>(i=1; i&lt;=10; i++) printf(<font color=#ff0080><strong>"%d "</STRONG></FONT>, i*i);
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Obliq><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Obliq</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>(* Hello World! *)
+
+</FONT>sys_printText(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>);</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>for</STRONG></FONT> i=1 <font color=#0000a0><strong>to</STRONG></FONT> 10 <font color=#0000a0><strong>do</STRONG></FONT>
+
+   sys_printText( text_fromInt(i*i) &amp; <font color=#ff0080><em><strong>" "</STRONG></EM></FONT> );
+
+<font color=#0000a0><strong>end</STRONG></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=OzMozart><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Oz/Mozart</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>% Hello World!!!
+
+</FONT>{Show <font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>local</STRONG></FONT> ShowIt T <font color=#0000a0><strong>in</STRONG></FONT>
+
+   <font color=#0000a0><strong>proc</STRONG></FONT> {ShowIt T}
+
+      {Show T*T}
+
+   <font color=#0000a0><strong>end</STRONG></FONT>
+
+
+
+   {For 1 10 1 ShowIt}
+
+<font color=#0000a0><strong>end</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Pascal><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Pascal</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>PROGRAM</STRONG></FONT> HelloWorld;
+
+<font color=#0000a0><strong>BEGIN</STRONG></FONT>
+
+   WRITELN(<font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>END</STRONG></FONT>.</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Perl><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Perl</U></STRONG></FONT></A></P><pre><font color=#0000ff># Hello World in Perl</FONT>
+
+print <font color=#ff0080><em><strong>'Hello World.'</STRONG></EM></FONT>;</PRE>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>$a = 3;
+
+$b = 5;
+
+$c = $a + $b;
+
+print <font color=#ff0080><em><strong>"$a + $b = $c"</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>3 + 5 = 8</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>for</STRONG></FONT>($i=1; $i&lt;=10; ++$i) {
+
+   print $i*$i, <font color=#ff0080><em><strong>' '</STRONG></EM></FONT>;
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Phantom><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Phantom</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>(* Hello World! *)
+
+</FONT><font color=#0000a0><strong>module</STRONG></FONT> helloworld;
+
+<font color=#0000a0><strong>import</STRONG></FONT> stdio;
+
+<font color=#0000a0><strong>begin
+
+</STRONG></FONT>   stdio.puts(<font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>end</STRONG></FONT> helloworld.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>module</STRONG></FONT> test;
+
+<font color=#0000a0><strong>import</STRONG></FONT> stdio, fmt;
+
+<font color=#0000a0><strong>begin
+
+   for </STRONG></FONT>i:=1<font color=#0000a0><strong> to </STRONG></FONT>10<font color=#0000a0><strong> do
+
+</STRONG></FONT>      stdio.puts(fmt.fint(i*i) @ <font color=#ff0080><em><strong>" "</STRONG></EM></FONT>);
+
+   <font color=#0000a0><strong>end</STRONG></FONT>;
+
+<font color=#0000a0><strong>end</STRONG></FONT> test.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=PHP3><font 
+color=#ff0000 face="Courier New" size=5><strong><u>PHP3</U></STRONG></FONT></A></P>
+<div align=left><pre><font face=Arial><em><strong>PHP3-Code wird in eine HTML-Seite eingebunden (zwischen &lt;?php und ?&gt;)</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>&lt;html&gt;&lt;body&gt;
+
+<font color=#0000ff><strong>&lt;?php echo </STRONG></FONT><font color=#ff0080><strong>"Hello World\n"</STRONG></FONT><font color=#0000ff><strong>; ?&gt;
+
+</STRONG></FONT>&lt;/body&gt;&lt;/html&gt;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>&lt;html&gt;&lt;body&gt;
+
+&lt;?php</PRE></DIV>
+<div align=left><pre><font color=#0000ff>// gibt die Quadrate von 1-10 aus
+
+</FONT><font color=#0000a0><strong>for</STRONG></FONT>($i=1; $i&lt;=10; ++$i)
+
+{
+
+   echo $i*$i;
+
+   echo <font color=#ff0080><strong>" "</STRONG></FONT>;
+
+}</PRE></DIV>
+<div align=left><pre>?&gt;
+
+&lt;/body&gt;&lt;/html&gt;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=PL0E><font 
+color=#ff0000 face="Courier New" size=5><strong><u>PL/0E</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>PROGRAM</STRONG></FONT> HelloWorld;
+
+<font color=#0000a0><strong>BEGIN</STRONG></FONT>
+
+   WRITELN(<font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>);
+
+<font color=#0000a0><strong>END</STRONG></FONT>.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>PROGRAM</STRONG></FONT> HelloWorld;
+
+<font color=#0000a0><strong>
+
+VAR</STRONG></FONT> i : <font color=#0000a0><strong>LONGINT</STRONG></FONT>;
+
+<font color=#0000a0><strong>BEGIN
+
+</STRONG></FONT>   i = 1;
+
+
+
+   <font color=#0000a0><strong>REPEAT</STRONG></FONT>
+
+      WRITE(i*i,<font color=#ff0080><em><strong>' '</STRONG></EM></FONT>);
+
+      inc(i);
+
+   <font color=#0000a0><strong>UNTIL</STRONG></FONT> i&gt;10;
+
+<font color=#0000a0><strong>END</STRONG></FONT>.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=PL1><font 
+color=#ff0000 face="Courier New" size=5><strong><u>PL/1</U></STRONG></FONT></A></P>
+<div align=left><pre>PRINT(SYSPRINT,'Hello World');</PRE></DIV>
+<div align=left><pre>PUTCRLF;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>i=1;</PRE></DIV>
+<div align=left><pre>DO WHILE (i &lt;= 10);</PRE></DIV>
+<div align=left><pre>	PRINT(SYSPRINT,i*i,' ');</PRE></DIV>
+<div align=left><pre>	i=i+1;</PRE></DIV>
+<div align=left><pre>END;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Postscript><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Postscript</U></STRONG></FONT></A></P>
+<div align=left><pre>/Courier findfont </PRE></DIV>
+<div align=left><pre>28 scalefont</PRE></DIV>
+<div align=left><pre>setfont</PRE></DIV>
+<div align=left><pre>0 0 moveto		</PRE></DIV>
+<div align=left><pre>(Hello World) show	% Text links unten ausgeben</PRE></DIV>
+<div align=left><pre>showpage</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Profan><font color=#ff0000 face="Courier New" size=5><strong><u>Profan</U></STRONG></FONT></A><font 
+color=#ff0000 face="Courier New" size=5> </FONT><A href="http://www.profan.de">Profan Homepage</A></P>
+<div align=left><pre><STRONG><FONT color=#0000a0>PRINT </FONT><em><font color=#ff0080>"Hello World"</EM></STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><font color=#0000ff>' gibt die Quadrate von 1-10 aus</FONT></FONT></PRE><pre><FONT color=#0000ff><FONT color=#0000a0><STRONG>DECLARE </STRONG></FONT></FONT><FONT color=black>I%</FONT></PRE><pre><FONT color=black><FONT color=#0000a0><STRONG>LET </STRONG></FONT>I% = 0</FONT></PRE><pre><FONT color=black><FONT color=#0000a0><STRONG>WHILENOT </STRONG></FONT>@Equ(I%, 10)</FONT></PRE><pre><FONT color=black>	<FONT color=#0000a0><STRONG>INC </STRONG></FONT>I%</FONT></PRE><pre><FONT size=+0>	<FONT color=#0000a0><STRONG>PRINT </STRONG></FONT>@Sqr(I%); <EM><STRONG>" "</STRONG></EM></FONT><FONT color=black>;</FONT></PRE><pre><FONT color=#0000a0><STRONG>WEND</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><STRONG>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Prolog><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Prolog</U></STRONG></FONT></A><font 
+color=#ff0000 face="Courier New" size=5> </FONT><A href="Prolog/index.htm" >Infos</A></P>
+<div align=left><pre>?- write(<font color=#ff0080><em><strong>'Hello World'</STRONG></EM></FONT>), nl.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>% Berechnen der Fakult&auml;t
+
+</FONT>fak(0,1).
+
+fak(N,R) :-  N &gt; 0,  M is N - 1,  fak(M,R1),  R is N * R1.
+
+
+
+?- fak(6,N).</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>N = 720</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Python><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Python</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff># Hello World in Python
+
+</FONT>print <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>arr = range(1,11)
+
+<font color=#0000a0><strong>for</STRONG></FONT> i <font color=#0000a0><strong>in</STRONG></FONT> arr: print i*i,</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>for</STRONG></FONT> i <font color=#0000a0><strong>in</STRONG></FONT> map(lambda a: a*a,range(1,11)): print i,</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Rebol><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Rebol</U></STRONG></FONT></A></P>
+<div align=left><pre>print "Hello World"</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>repeat i 10 [prin i * i prin " "]</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>for i 1 10 1 [prin i * i prin " "]</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=REXX><font 
+color=#ff0000 face="Courier New" size=5><strong><u>REXX</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>/* Hello World (Kommentar ist wichtig!!!) */
+
+</FONT><font color=#0000a0><strong>SAY</STRONG></FONT> <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>/* */
+
+</FONT><font color=#0000a0><strong>DO</STRONG></FONT> I=1 <font color=#0000a0><strong>TO</STRONG></FONT> 10
+
+   <font color=#0000a0><strong>SAY</STRONG></FONT> I*I
+
+<font color=#0000a0><strong>END</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>/* */
+
+</FONT>I=1
+
+<font color=#0000a0><strong>DO</STRONG></FONT> 10
+
+   <font color=#0000a0><strong>SAY</STRONG></FONT> I*I
+
+   I = I + 1
+
+<font color=#0000a0><strong>END</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Ruby><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Ruby</U></STRONG></FONT></A><font 
+color=#ff0000 face="Courier New" size=5> </FONT><A href="ruby.html" target="" >Infos</A></P>
+<div align=left><pre><font color=#0000ff># Hello World in Ruby</FONT>
+
+print <font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>(1..10).each { |i| print i*i, <font color=#ff0080><em><strong>" "</STRONG></EM></FONT> }</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>oder:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>for</STRONG></FONT> i <font color=#0000a0><strong>in</STRONG></FONT> 1..10
+
+   print i*i, <font color=#ff0080><em><strong>" "</STRONG></EM></FONT>
+
+<font color=#0000a0><strong>end</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Sather><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Sather</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong><u>class</U></STRONG></FONT> MAIN <font color=#0000a0><strong><u>is
+
+
+
+</U></STRONG></FONT>   main
+
+   <font color=#0000a0><strong><u>is
+
+</U></STRONG></FONT>      #OUT + <font color=#ff0080><em><strong>"Hello World\n"</STRONG></EM></FONT>;
+
+   <font color=#0000a0><strong><u>end</U></STRONG></FONT>; <font color=#0000ff>-- main
+
+
+
+</FONT><font color=#0000a0><strong><u>end</U></STRONG></FONT>; <font color=#0000ff>-- class MAIN</FONT></PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Simula67><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Simula 
+67</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>begin
+
+   </STRONG></FONT>OutText(<font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>);
+
+   OutImage
+
+<font color=#0000a0><strong>end</STRONG></FONT></PRE></DIV><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE><pre><font color=#0000a0><strong>comment</STRONG></FONT>
+
+   <font color=#0000ff>gibt die Quadrate von 1 bis 10 aus</FONT>;</PRE><pre><font color=#0000a0><strong>begin
+
+</STRONG></FONT>   integer i;		<font color=#0000ff>! ein Integer</FONT>;
+
+
+
+   <font color=#0000a0><strong>for</STRONG></FONT> i := 1 <font color=#0000a0><strong>step</STRONG></FONT> 1 <font color=#0000a0><strong>until</STRONG></FONT> 10 <font color=#0000a0><strong>do</STRONG></FONT>
+
+   <font color=#0000a0><strong>begin
+
+</STRONG></FONT>      OutInt(i*i,4);
+
+   <font color=#0000a0><strong>end</STRONG></FONT><font color=#0000ff>--for-----diese Schleife gibt die Quadrate aus</FONT>;
+
+
+
+   OutImage
+
+<font color=#0000a0><strong>end</STRONG></FONT><font color=#0000ff>--Ende des Programmes</FONT></PRE>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Sina><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Sina</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>class</STRONG></FONT> HelloWorld <font color=#0000a0><strong>interface</STRONG></FONT>
+
+   <font color=#0000a0><strong>methods</STRONG></FONT>
+
+      show <font color=#0000a0><strong>returns</STRONG></FONT> nil;
+
+   <font color=#0000a0><strong>inputfilters</STRONG></FONT>
+
+      disp: Dispatch = {inner.*};
+
+<font color=#0000a0><strong>end</STRONG></FONT>;
+
+
+
+<font color=#0000a0><strong>class</STRONG></FONT> HelloWorld <font color=#0000a0><strong>implementation</STRONG></FONT>
+
+   <font color=#0000a0><strong>methods</STRONG></FONT>
+
+      show
+
+      <font color=#0000a0><strong>begin</STRONG></FONT>
+
+         <font color=#0000a0><strong>self</STRONG></FONT>.printLine(<font color=#ff0080><strong>'Hello World'</STRONG></FONT>);
+
+      <font color=#0000a0><strong>end</STRONG></FONT>;
+
+<font color=#0000a0><strong>end</STRONG></FONT>;
+
+
+
+<font color=#0000a0><strong>main</STRONG></FONT>
+
+   <font color=#0000a0><strong>temps</STRONG></FONT>
+
+      hello: HelloWorld;
+
+   <font color=#0000a0><strong>begin</STRONG></FONT>
+
+      hello.show
+
+   <font color=#0000a0><strong>end</STRONG></FONT></PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Sirius><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Sirius</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>@ Hello World in Sirius @
+
+
+
+</FONT><font color=#0000a0><strong>PROGRAM</STRONG></FONT> Hello_World
+
+   OUTPUT (<font color=#ff0080><strong>'Hello World'</STRONG></FONT>)
+
+<font color=#0000a0><strong>END</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>PROGRAM </STRONG></FONT>Squares
+
+
+
+<font color=#0000a0><strong>PROCEDURE</STRONG></FONT> iterate (<font color=#0000a0><strong>INTEGER</STRONG></FONT> start, ende)
+
+   <font color=#0000a0><strong>DECLARE</STRONG></FONT> i <font color=#0000a0><strong>AS</STRONG></FONT> <font color=#0000a0><strong>INTEGER</STRONG></FONT>
+
+   <font color=#0000a0><strong>WHILE</STRONG></FONT> (start &lt;= ende)
+
+      i := start * start
+
+      OUTPUT (i)
+
+      start := start + 1
+
+   <font color=#0000a0><strong>NEXT</STRONG></FONT>
+
+<font color=#0000a0><strong>END</STRONG></FONT>
+
+
+
+iterate (1, 10)
+
+
+
+<font color=#0000a0><strong>END</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p>&nbsp;</P>
+<p align=left><a name=Sisal><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Sisal</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000ff>%
+
+% Hello World!!!
+
+%
+
+
+
+</FONT><font color=#0000a0><strong>define</STRONG></FONT> main
+
+<font color=#0000a0><strong>function</STRONG></FONT> main(<font color=#0000a0><strong>returns</STRONG></FONT> array [Character])
+
+   <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>
+
+<font color=#0000a0><strong>end</STRONG></FONT> <font color=#0000a0><strong>function</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>define</STRONG></FONT> main
+
+<font color=#0000a0><strong>function</STRONG></FONT> main(<font color=#0000a0><strong>returns</STRONG></FONT> array [Integer])
+
+   <font color=#0000a0><strong>for</STRONG></FONT> i <font color=#0000a0><strong>in</STRONG></FONT> 1, 10
+
+      x := i * i
+
+      <font color=#0000a0><strong>returns</STRONG></FONT> array of x
+
+   <font color=#0000a0><strong>end</STRONG></FONT> <font color=#0000a0><strong>for</STRONG></FONT>
+
+<font color=#0000a0><strong>end</STRONG></FONT> <font color=#0000a0><strong>function</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=Smalltalk><font 
+color=#ff0000 face="Courier New" size=5><strong><u>Smalltalk</U></STRONG></FONT></A></P>
+<div align=left><pre>'Hello World' out.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>| someNumbers |</PRE></DIV>
+<div align=left><pre>someNumbers := { 1 2 3 4 5 6 7 8 9 10}</PRE></DIV>
+<div align=left><pre>(someNumbers collect: [:i| i squared.]) out.</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>Quicksort:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>" This must be inserted into the class Array as an instance method "</PRE></DIV>
+<div align=left><pre>quicksort: l to: r
+
+" sorts the array between l and r after the quicksort method 
+
+  by Michael Neumann 1998
+
+"</PRE></DIV>
+<div align=left><pre>	| m il ir temp |
+
+	(r &gt; l) ifTrue: [
+
+		m := self at: ((l + r) // 2).
+
+		il := l.
+
+		ir := r.
+
+		[
+
+			[(self at: il) &lt; m] whileTrue: [il := il + 1.].
+
+			[(self at: ir) &gt; m] whileTrue: [ir := ir - 1.].
+
+			(il &lt; ir) ifTrue: [
+
+				" swap "
+
+				temp := self at: il.
+
+				self at: il put: (self at: ir).
+
+				self at: ir put: temp.				
+
+			].
+
+		] doUntil: [il &gt;= ir.].
+
+		self quicksort: l to: (il - 1).
+
+		self quicksort: (il + 1) to: r.
+
+	].
+
+^self.</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=SQL><font 
+color=#ff0000 face="Courier New" size=5><strong><u>SQL</U></STRONG></FONT></A></P>
+<div align=left><pre>SELECT 'Hello World'</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p><a name=TclTk><font color=#ff0000 
+face="Courier New" size=5><strong><u>Tcl/Tk</U></STRONG></FONT></A></P>
+<div align=left><pre><font face=Arial><em><strong>ohne Tk (GUI - Graphical User Interface):</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>puts "Hello World"</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>mit Tk:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>button .hello -text "Hello World" -command {destroy .}</PRE></DIV>
+<div align=left><pre>pack .hello</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>set a 3</PRE></DIV>
+<div align=left><pre>set b 5</PRE></DIV>
+<div align=left><pre>puts "$a + $b = [expr $a + $b]"</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>3 + 5 = 8</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>set i 1</PRE></DIV>
+<div align=left><pre>while {$i &lt;= 10} {puts [expr $i*$i];set i [expr $i+1]}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=TOM><font 
+color=#ff0000 face="Courier New" size=5><strong><u>TOM</U></STRONG></FONT></A></P>
+<div align=left><pre><font color=#0000a0><strong>implementation</STRONG></FONT> <font color=#0000a0><strong>class</STRONG></FONT> HelloWorld
+
+
+
+<font color=#0000a0><strong>int</STRONG></FONT> main Array argv
+
+{
+
+    [[[stdio out] print <font color=#ff0080><em><strong>"Hello World"</STRONG></EM></FONT>] nl];
+
+    <font color=#0000a0><strong>return</STRONG></FONT> 0;
+
+}
+
+
+
+<font color=#0000a0><strong>end</STRONG></FONT>;
+
+
+
+<font color=#0000a0><strong>implementation</STRONG></FONT> <font color=#0000a0><strong>instance</STRONG></FONT> HelloWorld <font color=#0000a0><strong>end</STRONG></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel: </STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000a0><strong>implementation</STRONG></FONT> <font color=#0000a0><strong>class</STRONG></FONT> Test
+
+
+
+<font color=#0000a0><strong>int</STRONG></FONT> main Array argv
+
+{
+
+    <font color=#0000a0><strong>for</STRONG></FONT>( <font color=#0000a0><strong>int</STRONG></FONT> i=1; i&lt;=10; ++i ) [[stdio out] print (i*i, <font color=#ff0080><em><strong>" "</STRONG></EM></FONT>)];
+
+    <font color=#0000a0><strong>return</STRONG></FONT> 0;
+
+}
+
+
+
+<font color=#0000a0><strong>end</STRONG></FONT>;
+
+
+
+<font color=#0000a0><strong>implementation</STRONG></FONT> <font color=#0000a0><strong>instance</STRONG></FONT> Test <font color=#0000a0><strong>end</STRONG></FONT>;</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left><a name=UFO><font 
+color=#ff0000 face="Courier New" size=5><strong><u>UFO</U></STRONG></FONT></A></P>
+<div align=left><pre>main : String <font color=#0000a0><strong>is</STRONG></FONT>
+
+<font color=#ff0080><strong>"Hello World\n"</STRONG></FONT></PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>anderes Beispiel:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre><font color=#0000ff>**
+
+** Gibt die Quadrate von 1 bis 10 aus
+
+**
+
+</FONT>main : String <font color=#0000a0><strong>is</STRONG></FONT>
+
+{
+
+   squares = <font color=#0000a0><strong>for</STRONG></FONT> i <font color=#0000a0><strong>in</STRONG></FONT> [1 to 10] <font color=#0000a0><strong>do</STRONG></FONT>
+
+             <font color=#0000a0><strong>return</STRONG></FONT> <font color=#0000a0><strong>all</STRONG></FONT> i*i
+
+             <font color=#0000a0><strong>od</STRONG></FONT>;
+
+
+
+   output  = <font color=#0000a0><strong>initially</STRONG></FONT> txt = <font color=#ff0080><strong>""</STRONG></FONT>
+
+             <font color=#0000a0><strong>for</STRONG></FONT> i <font color=#0000a0><strong>in</STRONG></FONT> squares <font color=#0000a0><strong>do</STRONG></FONT>
+
+                <font color=#0000a0><strong>new</STRONG></FONT> txt = txt ++ print(i) ++ <font color=#ff0080><strong>" "</STRONG></FONT>
+
+             <font color=#0000a0><strong>return</STRONG></FONT> txt
+
+             <font color=#0000a0><strong>od</STRONG></FONT>;
+
+
+
+   <font color=#0000a0><strong>return</STRONG></FONT> output ++ <font color=#ff0080><strong>"\n"</STRONG></FONT>
+
+}</PRE></DIV>
+<div align=left><pre><font face=Arial><em><strong>ergibt:</STRONG></EM></FONT></PRE></DIV>
+<div align=left><pre>1 4 9 16 25 36 49 64 81 100</PRE></DIV>
+
+
+
+
+
+
+<p align=left>&nbsp;</P>
+<p align=left>&nbsp;</P>
+<p align=left>
+<a name="WML"><font color="#FF0000" size="5" face="Courier New"><strong><u>WML</u></strong></font></a></p>
+<div align="left">
+
+<pre><font color="#000000">&lt;?xml version=&quot;1.0&quot;?&gt;</font></pre>
+</div><div align="left">
+
+<pre><font color="#000000">&lt;!DOCTYPE wml PUBLIC &quot;-//WAPFORUM//DTD WML 1.1//EN&quot; &quot;http://www.wapforum.org/DTD/wml_1.1.xml&quot;&gt;</font></pre>
+</div><div align="left">
+
+<pre><font color="#000000">&lt;wml&gt;</font></pre>
+</div><div align="left">
+
+<pre><font color="#000000">   &lt;card id=&quot;Hello_World&quot; title=&quot;Hello World&quot;&gt;</font></pre>
+</div><div align="left">
+
+<pre><font color="#000000">      &lt;p&gt;Hello World&lt;/p&gt;</font></pre>
+</div><div align="left">
+
+<pre><font color="#000000">   &lt;/card&gt;</font></pre>
+</div><div align="left">
+
+<pre><font color="#000000">&lt;/wml&gt;</font></pre>
+</div>
+
+
+
+
+<p align=left>&nbsp;</P>
+
+<hr>
+
+<p>eMail: <A href="mailto:neumann@s-direktnet.de" >neumann@s-direktnet.de</A></P>
+<p><i>letzte &Auml;nderung: 20.11.1999 von 
+Michael Neumann</I></P>
+<p><em>http://www.s-direktnet.de/homepages/sprachen.htm</EM></P>
+<p>
+<p>&nbsp;</P>
+<P>&nbsp;</P>
+ </body> </html> 
+------------hyQdT5gTz8TdrEb9XMAwPo
+Content-Disposition: inline; filename=Image1.jpg
+Content-Type: image/jpeg; name=Image1.jpg
+Content-Location: http://www.ntecs.de/old-hp/s-direktnet/Image1.jpg
+Content-Transfer-Encoding: Base64
+
+/9j/4AAQSkZJRgABAQEASwBLAAD/4wMOTVNPIFBhbGV0dGUgzLuq2Mq728/A3tDB
+3tPE39TG4dTG4dbI4dfJ4tfK4tjL4trM49vO5NjK5NnM5NrN5NzP5dvO5d3P5trN
+5tzQ5t3R5t/T593Q597R59/R6N/S6OHU6d/U6uHV6uPW7ebataCOxbOiyrurz7yr
+0MGx0sS11cOx1ca21ci51sq718y92Mi42cq52cy82c6/2s6/2s/A28y628y+2869
+29DC3M7A3M/A3NHD3NLE3c693c/B3dDA3dDD3dHB3dHE3dPE3tLE3tPF3tTF3tTH
+39HA39HE39LC39LF39PD39PH39TH39XF39XI4NPE4NTE4NTH4NXG4NXI4NbG4NbI
+4NbJ4NfH4NfJ4NfK4NnL4dPF4dTE4dXH4dfK4drM4tXF4tXI4tbH4tbJ4tfH4tfI
+4tfJ4tfL4tjJ4tjK4tjN4tnL4trO4tvN49bH49bK49fJ49jL49nK49nL49nM49nN
+49nO49rJ49rK49rL49rN49vP49zN493O493Q5NfJ5NfL5NjJ5NnK5NnN5NrJ5NrL
+5NrO5NvK5NvL5NvN5NvQ5NzN5N3O5N3R5djL5dnK5dnL5dnM5dnN5drK5drO5drP
+5dvM5dvN5dvP5dzM5dzO5dzP5dzQ5dzR5d3N5d3O5d3Q5d7P5d7R5d7T5d/T5trM
+5trO5tzN5tzO5tzP5tzR5t3O5t3P5t3Q5t3S5t3T5t7N5t7P5t7R5t7S5t7T5t/Q
+5t/R59rM59vP59vQ59zP593M593O593P593R593S597P597Q597S597T59/Q59/S
+59/T59/U5+DR5+DT5+HU6N3R6N7O6N7P6N7Q6N7R6N7T6N7U6N/Q6N/T6N/U6ODQ
+6ODS6ODT6ODV6ODW6OHT6OHW6d7R6d7S6d/R6d/S6d/W6eDS6eDU6eDV6eHS6eHT
+6eHU6eHV6eHX6eLU6eLV6eLX6ePW6t/T6t/U6uHT6uHX6uLV6uLX6uPX6uTX6+HV
+6+HX6+LW6+PW6+TY7OPX7OTY7Oba7ePX7eXZ7uba7ufc8evf/9sAQwALCAgKCAcL
+CgkKDQwLDREcEhEPDxEiGRoUHCkkKyooJCcnLTJANy0wPTAnJzhMOT1DRUhJSCs2
+T1VORlRAR0hF/9sAQwEMDQ0RDxEhEhIhRS4nLkVFRUVFRUVFRUVFRUVFRUVFRUVF
+RUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVF/8AAEQgAgACAAwEiAAIRAQMR
+Af/EABcAAQEBAQAAAAAAAAAAAAAAAAEAAgf/xAAuEAEAAQQBBAEDAwQCAwAAAAAB
+EQACITFBElFhcSIygZGhsfBCwdHhAxMjUmL/xAAWAQEBAQAAAAAAAAAAAAAAAAAA
+AQP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDoVo5fkTGHiqZG
+PlGHFVsR8SOQcVbgdPesWiNmTtH+Kly6njxUIuhKGLZuh1OCV+3NBB1TI7YaYhAv
+j3/VUZTiOIq5xzz2oAPjDELqf5xWi4ujpcOmiMn6+6YloA6njh/fFMTgDxjFVqXW
+lwziMaqw8uOaA4xm15qIf+S4gLiJznxVGFxb7qLQC2PjwdqCJZGN4jg81YYn8VGD
+X5alLfqxkCgiBjnvH8/FEWj1G8FIYgxmINUxEtpvNBRvMw6omRJSGHG/NITs1Ou1
+HK3BHDQP4R20FvzfWSaXNwzHrmgjXTiKBDODz/CoFV55KCf6+cwcVJE6nu0CPUAa
+7xWbcg7nItV6/wDXc22P/IhJbMdXbLWi4bS4ukdPfmgnL/8ATzFBjOJ1UJKSTVLJ
+khWXn7UEjdjhmZ3TBMoaM96MhO080rDbqHFBODMx4q0hmNbrIQ3JhY2vFa5cG6AD
+LLM5J4KkRFuCcZqZmSNd+aSCY53mgJMnbdIk528RQumaTKkoH4aAe6pGJ71KW8kb
+zUTB1BMZhxNMokEu6AiXnwaqJ6ZuSd4xTiMfipnSOaCCUhrJeI3j1WxJ0kznxTc2
+9VkgsyTSPUpL2zzQEw5mInPFDIQEsYmnqfXuqPiTmOYoJxrXFA23Xcjbo1x2qtcR
+dBL8UxP+HxTBPV1XQZicUFkUDMzC+qoxEQ1BHqoySSTzH9qCRWExG/NRMrcAihDs
+pTHTv+fvREkYeN7KCl6sYI/WmZTE+yjUcyRM1MqRw/j7UCGMONTusxO5e4UoZLSJ
+qM2/I51EUD9lfFZVDgthZHNNrN3Q5gGamB4I1QJdJbM29XDho853zQQhdaYrTgn9
+vFAZzKZdBxV5XG5oCVm6ZhtQgD3zy/emDkGNY1QQZOqfOanBdP3in1/urQO/FUHC
+Pbmgv67Vt+WYIYmtXXEYYnmKnUsEd6guIX7zNU5yPuKz0jd1LchMBIZ7mlxumM4n
+JGaBziYKMnt1VrQY4Kn5QF0Qy94oKfMvYoJFAgNJzSC2zEXxBId/704ft3oMjbdb
+JFwlOvpxOvdRJ3+9V2LIPq0T3oIMQGOKn6eAN4qJElzgYNtIIc+5oJPEx2o4W4oE
+USYicVrMah90GUl+KumR/mK0G6Oenl1TbdbdYNqXW3GI5qigutRhtTMkzRHEkTOK
+e2p80R8cxH5oJltW2OrH1GKGVS0iSRdT5oJ5HqPjE8T+OPdamOYJjPuoLIzGXEvN
+OoCiTqhHgmMO6m2X5Q+Y/SgZ80QaxC4I5pfvvjmj49XZce6B2d3vQXTk4YR70Zen
+AQyzM/zVaFkkoCC7eTZSIZU71c4NnaqSfLne6DNtoE2g4j9Z3Wu0b3VqYI/tQ3AB
+cwvHNBIixnOn9aeaCLYiYgDmCnvve2gzaIzuf08+qQLOMTJ75qvS0ltWOA3Ul0sQ
+9h1QOrXXjNWrvt+lGnVRpQ54oEXT2yVE4uwmsUaA4ee1F0EzBbrPH+qBs623/wAg
+Tz5qfPHPaohHP0qOOaLrksVLsf8AqZoNE5Uzv/FQtF3xZhXUkTE0m0THmgIY81QJ
+dPpq8Y8HenOTXbvQAOLSYO7FIQQODjtQ2s7xjFUCzqHvzQXIfvThx3oysjEcbpfL
+uqJzkkIoTrIxcXYasfTl80gGtu6gB9ZdxTnZH3qiJO4kd6kwFBlHDanrv4mtRO/x
+R7x+lS/vugdzw8+aOrGcHLVi3nERVLLD/qgnGFPXNCNtoW5TUzmmfl0nai2R+mF2
+0DdaMjnnPFSllvzu0ZYiqWViZjE670p2ZoIdyk9qzahBOXBMZa0T3ZoNkInDQV2U
+epI0U61jOc6oCBHPui9W62IkuzPB480DAGdPEapWJmPtRd8RQb0lCd+qf6YcB3dU
+EjP270cZ435otbnqL+kB+LZc5t4XtzrFPO6D/9k=
+
+------------hyQdT5gTz8TdrEb9XMAwPo
+Content-Disposition: inline; filename=new.gif
+Content-Type: image/gif; name=new.gif
+Content-Location: http://www.ntecs.de/old-hp/s-direktnet/new.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhHwAMAOcAAAAAAP///wD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAACH5BAEAAAEALAAAAAAfAAwAQAhqAAMIHChQAEGDBAMIQJiw
+4UIBAB5GBEAxIsSFFhc2PEgR40WJDz9uLBiypMmTIxV+7JgRYsWOKRWSfDgwpEqN
+MWvStHmTpsyRHj2+/BiU4caLE11anJjUqEOiTUESTXmyatWcJBM6xZkwIAA7
+
+------------hyQdT5gTz8TdrEb9XMAwPo--
